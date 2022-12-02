@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "author": "huynhthang9697",
+        "description": "No Problem!"
+    },
+    "data": [
+        {
+        "name": "Say Hentai",
+        "author": "huynhthang9697",
+        "path": "https://raw.githubusercontent.com/huynhthang9697/vbook-ext/main/Sayhentai/plugin.zip",
+        "version": 4,
+        "source": "https://sayhentai.me",
+        "icon": "https://raw.githubusercontent.com/huynhthang9697/vbook-ext/main/Sayhentai/icon.png",
+        "description": "Đọc truyện trên trang sayhentai.me",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag": "nsfw"
+      }
+      ]
+}
